@@ -1,0 +1,2 @@
+RewriteRule ^.*?.* https://serres.entropies.xyz/$1 [R=301,L]
+RewriteRule ^.*?.* https://serres.entropies.xyz/$1 [R=301,L]
