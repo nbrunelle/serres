@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <IfModule mod_rewrite.c>
 
 RewriteEngine On
@@ -76,3 +77,7 @@ RewriteRule ^(LICENSE\.txt|composer\.lock|composer\.json|\.htaccess)$ error [F]
 Options -Indexes
 DirectoryIndex index.php index.html index.htm
 # End - Prevent Browsing and Set Default Resources
+=======
+RewriteRule ^.*?.* https://serres.entropies.xyz/$1 [R=301,L]
+RewriteRule ^.*?.* https://serres.entropies.xyz/$1 [R=301,L]
+>>>>>>> 62d5acdc54ce9873315b03d238a0edca60fffb97
