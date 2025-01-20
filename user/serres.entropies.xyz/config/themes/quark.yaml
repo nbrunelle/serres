@@ -1,0 +1,20 @@
+enabled: true
+production-mode: true
+grid-size: grid-lg
+header-fixed: true
+header-animated: false
+header-dark: false
+header-transparent: false
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: false
+  icons: false
+custom_logo:
+  user/themes/quark/images/logo/serres-logo.png:
+    name: serres-logo.png
+    full_path: serres-logo.png
+    type: image/png
+    size: 11445
+    path: user/themes/quark/images/logo/serres-logo.png
+custom_logo_mobile: {  }

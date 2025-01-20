@@ -1,0 +1,19 @@
+title: 'Serres*'
+default_lang: en
+author:
+  name: Entropies
+  email: serres@entropies.xyz
+taxonomies:
+  - category
+metadata:
+  description: 'Serres* is a transdisciplinary billingual (FR/EN) edition comes together as a few pages to invest in where multiple rhythms, forms and angles collide. A project for which its frame is diaphanous, a space for experimentation, fragile tests, beginnings, intuitions. Serres is the desire to share these thoughts, to give them shape, give them space, to make them relate in the in between of stages of a process. '
+  keywords: 'art, entropies, journal, edition'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog

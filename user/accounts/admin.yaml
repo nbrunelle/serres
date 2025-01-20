@@ -1,0 +1,11 @@
+state: enabled
+email: serres@entropies.xyz
+fullname: 'System Administrator'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$k5LGyDb/nUFVK33UgISnc.iR0SgblAvdh.ukkot1N3HkCagKLhW6a
